@@ -1,0 +1,29 @@
+══════════════════════════════════════════════════════════
+  ALife Experiment — FLAT environment
+  Timestamp : 2026-03-28T20:51:18
+  Seed      : 42   Ticks: 600
+══════════════════════════════════════════════════════════
+
+  ÉVOLUTION GÉNÉTIQUE
+    Vitesse initiale  : 1.360
+    Vitesse finale    : 0.762
+    Drift total       : -0.599  ← lents favorisés
+    Diversité génét.  : σ=0.189  ← diversité maintenue
+
+  DÉMOGRAPHIE
+    Population max    : 310
+    Population finale : 310
+    Pop. stable (moy) : 250.2
+    Extinction        : non
+
+  BIODIVERSITÉ
+    Lignées initiales : 15
+    Lignées finales   : 9
+    Extinction rate   : 40%
+    Génération max    : 7
+
+  RESSOURCES
+    Res. moyenne fin  : 1.922 / 5.0
+    Occupation        : 38%
+
+══════════════════════════════════════════════════════════
