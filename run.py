@@ -54,7 +54,7 @@ def parse_args():
     p.add_argument("--mode",  default="flat",
                    choices=["flat","perlin","drought"],
                    help="Mode d'environnement")
-    p.add_argument("--ticks", type=int,   default=600,
+    p.add_argument("--ticks", type=int,   default=2500,
                    help="Nombre de ticks à simuler")
     p.add_argument("--seed",  type=int,   default=NOISE_SEED,
                    help="Graine aléatoire (reproductibilité)")
@@ -305,7 +305,7 @@ def main():
 
     # Dossier de sortie
     out = Path(args.out_dir)
-    out.mkdir(exist_ok=True)
+    out.mkdir(parents=True, exist_ok=True)
 
     # Run
     data    = run_simulation(mode, ticks, seed, n_agents, mutation, regen)

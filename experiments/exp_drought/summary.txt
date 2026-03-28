@@ -1,0 +1,29 @@
+══════════════════════════════════════════════════════════
+  ALife Experiment — DROUGHT environment
+  Timestamp : 2026-03-28T21:08:56
+  Seed      : 42   Ticks: 2500
+══════════════════════════════════════════════════════════
+
+  ÉVOLUTION GÉNÉTIQUE
+    Vitesse initiale  : 1.360
+    Vitesse finale    : 0.629
+    Drift total       : -0.731  ← lents favorisés
+    Diversité génét.  : σ=0.104  ← pop. homogène
+
+  DÉMOGRAPHIE
+    Population max    : 1560
+    Population finale : 1556
+    Pop. stable (moy) : 1548.3
+    Extinction        : non
+
+  BIODIVERSITÉ
+    Lignées initiales : 15
+    Lignées finales   : 5
+    Extinction rate   : 67%
+    Génération max    : 12
+
+  RESSOURCES
+    Res. moyenne fin  : 0.582 / 5.0
+    Occupation        : 12%
+
+══════════════════════════════════════════════════════════

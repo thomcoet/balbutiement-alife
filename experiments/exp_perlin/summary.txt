@@ -1,0 +1,29 @@
+══════════════════════════════════════════════════════════
+  ALife Experiment — PERLIN environment
+  Timestamp : 2026-03-28T21:08:46
+  Seed      : 42   Ticks: 2500
+══════════════════════════════════════════════════════════
+
+  ÉVOLUTION GÉNÉTIQUE
+    Vitesse initiale  : 1.360
+    Vitesse finale    : 0.664
+    Drift total       : -0.697  ← lents favorisés
+    Diversité génét.  : σ=0.117  ← pop. homogène
+
+  DÉMOGRAPHIE
+    Population max    : 1432
+    Population finale : 1431
+    Pop. stable (moy) : 1427.9
+    Extinction        : non
+
+  BIODIVERSITÉ
+    Lignées initiales : 15
+    Lignées finales   : 6
+    Extinction rate   : 60%
+    Génération max    : 11
+
+  RESSOURCES
+    Res. moyenne fin  : 0.554 / 5.0
+    Occupation        : 11%
+
+══════════════════════════════════════════════════════════
