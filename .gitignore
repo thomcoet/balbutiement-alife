@@ -1,0 +1,23 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Données d'expériences (résultats générés localement)
+# Décommenter la ligne suivante si tu ne veux PAS versionner les résultats
+# experiments/
+
+# Fichiers temporaires
+*.tmp
+*.log
