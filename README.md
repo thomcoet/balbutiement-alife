@@ -88,9 +88,22 @@ experiments/          # generated experiment results (JSON + summaries)
 
 ## Stack
 
-`numpy` · `matplotlib` · `jupyterlab` · Python 3.12 · no ML frameworks
+`numpy` · `matplotlib` · `jupyterlab` · `scipy` · Python 3.12 · no ML frameworks
 
 The goal is to understand the mechanics, not to hide them behind a library.
+
+---
+
+## Contributing
+
+```bash
+git clone https://github.com/YOUR_USERNAME/balbutiement-alife.git
+cd balbutiement-alife
+python3 -m venv .venv
+.venv/bin/pip install -r requirements.txt
+```
+
+Requires Python 3.12+.
 
 ---
 
