@@ -1,0 +1,18 @@
+{
+  "mode": "perlin",
+  "seed": 46,
+  "ticks_run": 2500,
+  "extinction": null,
+  "speed_initial": 1.1031,
+  "speed_final": 0.6755,
+  "speed_drift": -0.4276,
+  "speed_std_final": 0.1121,
+  "pop_max": 1394,
+  "pop_final": 1373,
+  "pop_stable_mean": 1369.8,
+  "lineages_final": 7,
+  "lineages_initial": 15,
+  "max_generation": 11,
+  "res_mean_final": 0.6018,
+  "elapsed_s": 6.69
+}

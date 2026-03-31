@@ -1,0 +1,18 @@
+{
+  "mode": "flat",
+  "seed": 43,
+  "ticks_run": 2500,
+  "extinction": null,
+  "speed_initial": 1.0967,
+  "speed_final": 0.6168,
+  "speed_drift": -0.4799,
+  "speed_std_final": 0.0985,
+  "pop_max": 1613,
+  "pop_final": 1610,
+  "pop_stable_mean": 1600.9,
+  "lineages_final": 9,
+  "lineages_initial": 15,
+  "max_generation": 10,
+  "res_mean_final": 0.5788,
+  "elapsed_s": 7.14
+}

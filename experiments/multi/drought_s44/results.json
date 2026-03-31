@@ -1,0 +1,18 @@
+{
+  "mode": "drought",
+  "seed": 44,
+  "ticks_run": 2500,
+  "extinction": null,
+  "speed_initial": 1.3486,
+  "speed_final": 0.7499,
+  "speed_drift": -0.5987,
+  "speed_std_final": 0.1149,
+  "pop_max": 1304,
+  "pop_final": 1304,
+  "pop_stable_mean": 1278.0,
+  "lineages_final": 6,
+  "lineages_initial": 15,
+  "max_generation": 11,
+  "res_mean_final": 0.6315,
+  "elapsed_s": 6.19
+}

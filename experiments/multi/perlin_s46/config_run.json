@@ -1,0 +1,12 @@
+{
+  "mode": "perlin",
+  "ticks_run": 2500,
+  "ticks_requested": 2500,
+  "seed": 46,
+  "n_agents_init": 15,
+  "mutation": 0.06,
+  "regen": 0.05,
+  "extinction_tick": null,
+  "elapsed_s": 6.69,
+  "timestamp": "2026-03-30T22:17:21.436651"
+}
